@@ -88,8 +88,7 @@ python run.py
 ---
 
 ## System Overview
-
-![High Level Architecture Diagram](docs/images/Highlevel-architecture.png)
+<img src="docs/images/Highlevel-architecture.png" alt="High Level Architecture Diagram" style="max-width: 100%; height: auto;">
 
 ---
 
