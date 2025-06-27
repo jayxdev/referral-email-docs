@@ -19,17 +19,21 @@
 ---
 
 ## System Architecture & Component Interactions
-
-![System Architecture Diagram](images/system-architecture-diagram.png)
+<p align="center">
+  <img src="images/system-architecture-diagram.png" alt="System Architecture Diagram" height="600px">
+</p>
 
 ### Detailed Component Interaction Flow
 
-![Component Interaction Flow](images/component-interaction-flow.png)
+<p align="center">
+  <img src="images/component-interaction-flow.png" alt="Component Interaction Flow" height="600px">
+</p>
 
 ### Data Flow Architecture
 
-![Data Flow Architecture](images/data-flow-architecture.png)
-
+<p align="center">
+  <img src="images/data-flow-architecture.png" alt="Data Flow Architecture" height="600px">
+</p>
 ---
 
 ## Technical Workflow
