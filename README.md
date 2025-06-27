@@ -88,7 +88,10 @@ python run.py
 ---
 
 ## System Overview
-<img src="docs/images/Highlevel-architecture.png" height="600">
+
+<p align="center">
+  <img src="docs/images/Highlevel-architecture.png" alt="Referral Pipeline" height="600px">
+</p>
 
 ---
 
